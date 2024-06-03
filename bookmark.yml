@@ -1,6 +1,6 @@
 jwt:
   token:
-    expiration_time: 86400000
+    expiration_time: 36000000
     secret: thesecretkeyvalueofjwtmustbegreaterthan256bits
 
 gateway:
