@@ -8,4 +8,3 @@ spring:
 jasypt:
   encryptor:
     password: '{cipher}24136663f5eec33aa2b49b924b3c4f5d900d4f9bfa3755ff5e1537155a4b62fa'
-    bean: jasyptEncryptor
