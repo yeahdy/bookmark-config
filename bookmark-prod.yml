@@ -1,0 +1,7 @@
+jwt:
+  token:
+    expiration_time: 43200000
+    secret: thesecretkeyvalueofjwtmustbegreaterthan256bits_prod
+
+gateway:
+  ip: 127.0.0.1
