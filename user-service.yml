@@ -7,4 +7,4 @@ spring:
 
 jasypt:
   encryptor:
-    password: '{cipher}24136663f5eec33aa2b49b924b3c4f5d900d4f9bfa3755ff5e1537155a4b62fa'
+    password: '{cipher}AQB4liDwprFZBvNEjaIwpItkgR2WZt1KhJhx8ZVanP9KuPsCmsq/p8BdmU/3+i1x15jgW3FjIyxV5JAOyTGfecru96eZ11ZY6a3q+anhAHQ3pXtpAXtTK6NMQc4yWiqPmAP1pyZJlSPagiDxgy85n3ncthgdAIEZwa24woKWb3paBGF03TpZ2Yjdt5MSugX6Udph4gNW2zQNBrrBoLgzqe/crxCnKpVmmCHgPTGuA0TlcVtFsICWCLX4t4oMvaNfEbfKg6RiOTxcyJrQ+UN5jlAN6i+KZz7H2kj8HTtP0ykx4rwXXBPqcrSIh29LqDmwTrjKF8/egPCTjcCgsoWl21cYTi6EZeFGzNWaiI8a7VHFXkd8dsZwPv1vCmURn6bbz7g='
