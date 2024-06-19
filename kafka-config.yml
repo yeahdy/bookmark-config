@@ -1,0 +1,10 @@
+spring:
+  kafka:
+    producer:
+      bootstrap-servers: localhost:9092
+    consumer:
+      bootstrap-servers: localhost:9092
+      group-ids:
+        order-catalog: catalogGroup
+    topics:
+      order-to-catalog: book-catalog-topic

@@ -1,7 +1,7 @@
 jwt:
   token:
     expiration_time: 43200000
-    secret: thesecretkeyvalueofjwtmustbegreaterthan256bits
+    secret: '{cipher}AQB/ty3gnTg0aE8/Ko5Qw4NXRnLtm99vxuF3D18MPkiJIl8PPLAHJXz7HorrsLVbhcoiJ86S/ekzf+An6YKvjx21s2rEAWgZhCANoAW0WqCXJV0aMCjQ/ITIoCQM5K6mZDDkas6qG9H3Bjx4ff1039e7IE235oLrE8Kf4h6yC2TurnXIuxOPviQFGoiuceVpJQT1hczlw+xY0RDA6AFp62NA5zpqm2EFhaheunX30zup98d9N2+RmxwucRxwLTYV+JetArBXd5jZJC96R/v2+Ldft+1Rs5nIiOAvAmu41bnOFPT4RH+h14pShvx2CxqKMpbWMcnxY4b6QWGSWWA8wZFFskxg8pDRB2Tlrh3HIpSOPEWz3Ze9yed2dlBKiQy83gU1KlDpBqr/BU4jyL9wKwI8et82G2d6ZyTWJoHjhICtWA=='
 
 gateway:
   ip: 127.0.0.1
