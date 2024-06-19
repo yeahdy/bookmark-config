@@ -4,4 +4,4 @@ jwt:
     secret: thesecretkeyvalueofjwtmustbegreaterthan256bits_dev
 
 gateway:
-  ip: 127.0.0.1
+  ip: 172.18.0.7
