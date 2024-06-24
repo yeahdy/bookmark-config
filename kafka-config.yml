@@ -8,3 +8,4 @@ spring:
         order-catalog: catalogGroup
     topics:
       order-to-catalog: book-catalog-topic
+      user-to-coupon: user-coupon-topic
