@@ -9,3 +9,4 @@ spring:
     topics:
       order-to-catalog: book-catalog-topic
       user-to-coupon: user-coupon-topic
+      coupon-to-coupon: reply-coupon-topic
